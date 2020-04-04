@@ -5,6 +5,7 @@
 
 <VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
+      <TextField disable="true" text="Ronnie Shafran" />
       <TextField editable="false" text="adar warmund" />
    </children>
 </VBox>
